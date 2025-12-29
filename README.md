@@ -28,7 +28,7 @@ And you will be absolutly right! However, KDE is very bad in gentoo. Because you
 
 
 # Installation
-You can download it from zip. Cheksum is also in the repo.
+You can download it from releases. Checksum is also included.
 
 # Gentoo & Slackware
 They will be included later... really later. 
