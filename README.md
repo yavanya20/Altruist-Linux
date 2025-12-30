@@ -1,6 +1,12 @@
 # Altruist-Linux
 Arch-based distribution with gnome DE. You want to install arch manually but dont have another device to help you out? Try Altruist Linux!
 
+# Project is closed.
+2025.12.30 and project by making acces to laptop-tablets without keyboard...
+Is closed. No more support.
+Apologizing.
+
+
 # FAQ
 What is this distro even about?
 
